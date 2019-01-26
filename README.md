@@ -6,3 +6,5 @@ This PCB combines 5 VL53L0X sensors adjacent next to each other to detect motion
 ![Front of PCB](/pics/front.png)
 
 ![Back of PCB](/pics/back.png)
+
+![Schematic](/pics/schematic.png)
